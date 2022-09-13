@@ -45,6 +45,21 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "2a289530-9f8e-4dad-9778-55270af8b6dd",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
 		}
 	]
 }
