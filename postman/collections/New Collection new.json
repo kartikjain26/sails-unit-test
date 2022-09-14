@@ -26,10 +26,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "wd",
-					"host": [
-						"wd"
-					]
+					"raw": ""
 				}
 			},
 			"response": []
@@ -37,6 +34,21 @@
 		{
 			"name": "New Request",
 			"id": "dc513330-3898-46df-ac82-222b1260d89f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"id": "7a0474bc-f512-4587-a24c-c07fe1470093",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
